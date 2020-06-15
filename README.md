@@ -1,12 +1,12 @@
 <h1 align="center"> Expenses </h1>
-<p align="justify"> O Expenses é um gerenciador de gastos financeiros. Cadastre, monitore e controle suas finanças de forma simples. </p>
+<p align="justify"> Expenses is a financial expense manager. Register, monitor and control your finances in a simple way. </p>
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Project Status: Under development :warning:
 
-## Deploy da Aplicação com Netlify: :dash:
-> Em desenvolvimento :warning:
+## Deploy Application With Netlify: :dash:
+> Under development :warning:
 
-## Linguagens e libs utilizadas :books:
+## Languages and libs used :books:
 - [Vue CLI](https://cli.vuejs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Saas](https://sass-lang.com/)
