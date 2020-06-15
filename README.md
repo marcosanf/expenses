@@ -4,7 +4,7 @@
 > Status do Projeto: Em desenvolvimento :warning:
 
 ## Deploy da Aplicação com Netlify: :dash:
-> Em desenvolvimento :warining:
+> Em desenvolvimento :warning:
 
 ## Linguagens e libs utilizadas :books:
 - [Vue CLI](https://cli.vuejs.org/)
