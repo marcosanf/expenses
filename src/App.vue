@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h3>oi</h3>
     <div id="nav">
     <base-spinner/>
     <router-view/>
