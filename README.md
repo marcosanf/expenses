@@ -3,6 +3,15 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
+## Deploy da Aplicação com Netlify: :dash:
+> Em desenvolvimento :warining:
+
+## Linguagens e libs utilizadas :books:
+- [Vue CLI](https://cli.vuejs.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Saas](https://sass-lang.com/)
+- [FontAwesome](https://fontawesome.com/v4.7.0/)
+
 ## Project setup
 ```
 npm install
