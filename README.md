@@ -1,5 +1,5 @@
 <h1 align="center"> Expenses </h1>
-<p align="justify"> O Expenses é um gerenciador de gastos financeiro. Cadastre, monitore e controle suas finanças de forma simples. </p>
+<p align="justify"> O Expenses é um gerenciador de gastos financeiros. Cadastre, monitore e controle suas finanças de forma simples. </p>
 
 > Status do Projeto: Em desenvolvimento :warning:
 
